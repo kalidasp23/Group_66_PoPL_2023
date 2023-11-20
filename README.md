@@ -138,6 +138,6 @@ Potential for future work:
 - Extended POPL Exploration:
   - Investigate deeper into Rust's ownership system and concurrency control for advanced application scenarios.
 
-
+//As for the division of labour, Sohum and Sankeerth headed the Rust we server implementation, whereas Akash and I did the Java implementation. We worked side by side during the testing phase and ironed out any bugs in our code. We referred the Rust textbook and used various internet searches for small issues in our code.
 
 
